@@ -1,16 +1,19 @@
-## Hi there 👋
+## ❤️ Olá, eu sou a Lorena!
+### Sobre mim:
 
-<!--
-**lorenaaze/lorenaaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de QA com experiência em testes manuais e automatizados, atuando na
+garantia da qualidade de software em ambientes ágeis (Scrum e Kanban). Domínio em
+ferramentas como Postman, Jira, Cypress, Selenium, Git e bancos de dados SQL e
+MongoDB. Forte habilidade em criação de cenários de teste (BDD/Gherkin), execução de
+testes funcionais, regressivos, de integração e aceitação, além de gestão de defeitos e
+documentação de evidências.
 
-Here are some ideas to get you started:
+- 📚 Formada em Análise e Desenvolvimento de Sistemas
+- 📃 Certificada na Certified Tester Foundation Level (CTFL) 
+- 🖥️ Atualmente focando em estudar automação com Python e Selenium
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ GitHub Stats
+<a href="https://github.com/lorenaaze">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaaze&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaaze&layout=compact&theme=radical"/>
